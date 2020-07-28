@@ -1,19 +1,5 @@
 
-.navbar {
-  
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
 
-}
-
-.navbar-nav {
-  
-  display: flex;
-  flex-direction: column;
-
-}
 
 #imgleft {
     float: left ;
